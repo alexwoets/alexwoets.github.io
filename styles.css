@@ -1,23 +1,14 @@
-body {
-  margin-left: 500px;
-  background-image: url("https://media.giphy.com/media/xT0xeEWrX8tHPgeTvO/giphy.gif");
-  color: blue;  
+body{
+  color: black;
+  background-color: #6E6E6E;
 }
 
-img {
+p.one {
+	color: #FFBF00;
+ }
 
-width:800px;
-
-height:550px;
-
-}
-
-
-
-}
-
- h1{
-	color: #483C32;
+p.two {
+  color: #0101DF;
  }
 
 ul.navbar {
